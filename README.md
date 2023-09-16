@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jallpatell
+- 🐱‍👤 Hi, I’m @jallpatell
 - 👀 I’m interested in webDev
 - 🌱 I’m currently learning .js
   
