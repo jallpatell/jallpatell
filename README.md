@@ -1,4 +1,4 @@
-I’m currently wrapping up my **Electrical Engineering** degree, but my real fuel comes from writing code, not lab reports. Somewhere along the way, I fell into the worlds of **DeFI**, **DEX*** and now—**DevOps** (because why not break things at scale?).
+I’m currently wrapping up my **Electrical Engineering** degree, but my real fuel comes from writing code, not lab reports. Somewhere along the way, I fell into the worlds of developing softwares eventually towards decentralised fincances - **DeFI**, **DEX** and now towards —**DevOps** (because why not break things at scale?).
 
 
 
