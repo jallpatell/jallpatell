@@ -3,4 +3,4 @@ I’m currently wrapping up my **Electrical Engineering** degree, but my real fu
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=jallpatell&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=jallpatell&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=gruvbox" />
