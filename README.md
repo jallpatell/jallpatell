@@ -17,6 +17,7 @@
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="javascript logo"  />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=graphql" height="40" alt="javascript logo"  />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img src="https://skillicons.dev/icons?i=redux" height="40" alt="react logo"  />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="javascript logo"  />
