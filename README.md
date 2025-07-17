@@ -13,7 +13,6 @@
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="javascript logo"  />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <br></br>
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="javascript logo"  />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="react logo"  />
