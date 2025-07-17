@@ -26,6 +26,8 @@
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="javascript logo"  />
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="javascript logo"  />
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="javascript logo"  />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="javascript logo"  />
    <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
