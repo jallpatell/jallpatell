@@ -7,7 +7,6 @@
  
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="javascript logo"  />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="github logo"  />
   <img src="https://skillicons.dev/icons?i=redis" height="40" alt="javascript logo"  />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="javascript logo"  />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="javascript logo"  />
