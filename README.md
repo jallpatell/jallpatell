@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api?username=jallpatell&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=jallpatell&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=onedark" />
 <h2 align="center">🛠 Language and tools</h2>
 
 ###
