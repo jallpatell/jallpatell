@@ -1,6 +1,10 @@
-<img src="https://github-readme-stats.vercel.app/api?username=jallpatell&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=onedark" />
+<div align="center">
+  
+</div>
+
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jallpatell&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=onedark" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="javascript logo"  />
   <img src="https://skillicons.dev/icons?i=redis" height="40" alt="javascript logo"  />
