@@ -1,4 +1,4 @@
-<div>
+<div className="flex">
   <img src="https://github-readme-stats.vercel.app/api?username=jallpatell&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=onedark" />
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jallpatell&show_icons=true&locale=en&layout=compact" alt="tushargahora" /></p>
 </div>
