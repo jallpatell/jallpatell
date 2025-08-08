@@ -1,14 +1,6 @@
-<div className="flex">
-  <img src="https://github-readme-stats.vercel.app/api?username=jallpatell&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=onedark" />
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jallpatell&show_icons=true&locale=en&layout=compact" alt="tushargahora" /></p>
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=jallpatell&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=onedark" />
 
-<h2 align="center">🛠 Language and tools</h2>
-
-###
-
-<div align="left">
- 
+<div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="javascript logo"  />
   <img src="https://skillicons.dev/icons?i=redis" height="40" alt="javascript logo"  />
