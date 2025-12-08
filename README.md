@@ -1,5 +1,7 @@
 ![Solana](https://img.shields.io/badge/solana-%239945FF.svg?style=for-the-badge&logo=solana&logoColor=white)
-
+https://img.shields.io/badge/Stellar-090020?style=for-the-badge&logo=stellar&logoColor=white
+https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white
+https://img.shields.io/badge/Amp-000?style=for-the-badge&logo=amp&logoColor=005AF0
 
 
 
